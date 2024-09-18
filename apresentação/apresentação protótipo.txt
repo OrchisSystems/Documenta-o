@@ -1,0 +1,38 @@
+Introdução:
+
+	Pensando em criar um ambiente onde nossos futuros clientes possam entender nossas soluções, nos conhecer melhor 
+	e tirar as suas dúvidas nós criamos no site institucional.
+
+Paleta de cores: 
+
+	Escolhemos como nossas principais cores o rosa e o roxo por serem duas das principais cores de 
+	orquídeas no mundo e porque trazem o significado de fragilidade das orquídeas e transformação dos seus problemas 
+	em soluções;
+
+Bloco Home: Resumo do site 
+
+	- Sessão inicial: Introdução do site e apresentação do sistema e botão que guia a simulação
+	- Sessão Serviços: Resumo dos serviços
+	- Sessão Sobre: resumo sobre nós, e o que fazemos
+	- Sessão ajuda: formulario de ajuda
+	- Rodapé: apresenta tópicos importantes do site
+
+Bloco Soluções: Explica soluções
+
+	- Sessão inicial: Introduções das soluções
+	- Sessão Apresentação: apresenta as soluções
+	- Sessão Explicação: Explica as soluções
+
+Bloco Sobre Nós: explica sobre nós
+
+	-Sessão inicial: Introdução sobre nós
+	- Sessão Apresentação: Apresentação da empresa
+	- Sessão Segmento: explica o segmento que atuamos
+	- Sessão Iniciação a missão, visão e valores: Introdução dos tópicos, reforçando nosso objetivo
+	- Sessão Missão e Visão: Explica a missão e visão
+	- Sessão Valores: Explica os valores
+
+Bloco Central de Ajuda: ambiente onde o usuário solicita ajuda
+
+	- Sessão Apresentação: apresenta a central de ajuda
+	- Sessão Formulário: permite o usuário tirar suas dúvias
